@@ -9,8 +9,8 @@
             .hash = "lsp_kit-0.1.0-hAAxO8C9AADemCOc0CmRChs50IY82liZno5pFFN8HJs5",
         },
         .afl_kit = .{
-            .url = "git+https://github.com/kristoff-it/zig-afl-kit?ref=zig-0.14.0#1e9fcaa08361307d16a9bde82b4a7fd4560ce502",
-            .hash = "afl_kit-0.1.0-uhOgGDkdAAALG16McR2B4b8QwRUQ2sa9XdgDTFXRWQTY",
+            .url = "git+https://github.com/Atif-Mahmud/zig-afl-kit#edc2a15bdcc91841a6cee4057e8eab54fe6752fc",
+            .hash = "zig_afl_kit-0.1.0-3k74feYcAAAAbSkTNXwg_SH9OiJgTtEznJh8-FBhPl_n",
             .lazy = true,
         },
         .known_folders = .{
