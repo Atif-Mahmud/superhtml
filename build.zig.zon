@@ -11,7 +11,6 @@
         .afl_kit = .{
             .url = "git+https://github.com/Atif-Mahmud/zig-afl-kit#edc2a15bdcc91841a6cee4057e8eab54fe6752fc",
             .hash = "zig_afl_kit-0.1.0-3k74feYcAAAAbSkTNXwg_SH9OiJgTtEznJh8-FBhPl_n",
-            .lazy = true,
         },
         .known_folders = .{
             .url = "git+https://github.com/ziglibs/known-folders#aa24df42183ad415d10bc0a33e6238c437fc0f59",
